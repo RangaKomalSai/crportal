@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5da9e5c.css",
+    "main.js": "/static/js/main.d1e59b98.js",
+    "static/media/footer-gif.gif": "/static/media/footer-gif.de9992953361f43a695c.gif",
+    "static/media/incen3.jpeg": "/static/media/incen3.0087ad4048986e46e03a.jpeg",
+    "static/media/banner-img.png": "/static/media/banner-img.a1372658a5033b497abc.png",
+    "static/media/incen1.jpeg": "/static/media/incen1.c022404e3eba04a3322b.jpeg",
+    "static/media/incen2.jpeg": "/static/media/incen2.ff5e010585f48781ef8d.jpeg",
+    "static/media/incen4.jpeg": "/static/media/incen4.64e51182890915af801f.jpeg",
+    "static/media/pramod.jpg": "/static/media/pramod.1da110421a828e3f5c6e.jpg",
+    "static/media/boat.png": "/static/media/boat.16e90fc5cbde47a33f91.png",
+    "static/media/footer-left.png": "/static/media/footer-left.422833b7232814718088.png",
+    "static/media/footer-right.png": "/static/media/footer-right.0f60f578b6753533b6f1.png",
+    "static/media/Strip-Top.png": "/static/media/Strip-Top.c1ff8b879afdea10a9f0.png",
+    "static/media/insta.svg": "/static/media/insta.4957fd0908aab442e20b1881e7e0a16d.svg",
+    "static/media/sword1.svg": "/static/media/sword1.ded4428594f08653f304.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.fb67ffb82cb6fc9933f1c6b523fad9e8.svg",
+    "index.html": "/index.html",
+    "main.e5da9e5c.css.map": "/static/css/main.e5da9e5c.css.map",
+    "main.d1e59b98.js.map": "/static/js/main.d1e59b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5da9e5c.css",
+    "static/js/main.d1e59b98.js"
+  ]
+}
